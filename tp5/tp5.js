@@ -1,4 +1,5 @@
 //Nayla Sapag comisión 1, legajo 93541/6
+// se suponia que tenias que esquivar planetas, pero no llegue a terminarlo asi q en el recuperatorio lo hago mejor.
 
 let n;
 //let fondo;
